@@ -20,4 +20,6 @@
 │   └── /images/
 │
 └── /uploads/                # Загруженные файлы
-
+index.php
+env.example
+README.md
